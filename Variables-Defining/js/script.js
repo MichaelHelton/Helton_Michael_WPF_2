@@ -1,13 +1,15 @@
 /**
  * Created by mikehelton on 8/13/14.
  */
+// Arrays
+var muppetNames= ["Kermit", "Miss Piggy", "Gonzo", "Rizzo"]; //0,1,2,3
 
-var age; //declaration
-age = 44; //declaration
+muppetNames[1] = "Rizzo"; //changing index #1 to Rizzo
+muppetNames[2] = "Fozzy";
 
-//storage container = value
+var num = 1;
 
-var yearOfBirth = 1969; //declaring and defining on the same line
+console.log(muppetNames[num]); //lets me see whats in the index #1
 
-console.log(age);
-console.log(yearOfBirth);
+
+
