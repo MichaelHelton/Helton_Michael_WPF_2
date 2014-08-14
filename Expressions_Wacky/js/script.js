@@ -14,6 +14,10 @@ var roomLength = prompt("What is the length of your room?");
 console.log(roomLength);
 document.write(roomLength);
 
+//answer of how many square feet you have
+answer = (roomWidth * roomLength+ " square feet");
+console.log(answer);
+
 
 
 
