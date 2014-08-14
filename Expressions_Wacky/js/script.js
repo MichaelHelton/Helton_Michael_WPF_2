@@ -18,6 +18,12 @@ document.write(roomLength);
 answer = (roomWidth * roomLength+ " square feet");
 console.log(answer);
 
+//alert the tile sizes to choose from
+alert ("Tile sizes to choose from are 2, 4, 6, 8, 10, 12, 18 & 24");
+
+//converting to tile size being used to tile room
+var tileSize = [2, 4, 6, 8, 10, 12, 18, 24];
+
 
 
 
