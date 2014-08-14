@@ -10,3 +10,6 @@ console.log(dPerInch);
 var pPerInch = prompt("What are the ppi of the image?");
 console.log(pPerInch);
 
+//answering how many rows and dots there are per pixel
+answer = dPerInch / pPerInch + " Pixels = Rows and Dots per pixel";
+
