@@ -4,7 +4,9 @@
  */
 
 //Converting room width and length into square feet and then into how many tile it will take to tile the room
+//prompting user to input room width
 var roomWidth = prompt("What is the width of your room?");
 console.log=(roomWidth);
 document.write=(roomWidth);
+
 
