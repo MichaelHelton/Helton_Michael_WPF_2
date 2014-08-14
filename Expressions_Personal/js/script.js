@@ -6,3 +6,7 @@
 var roomWidth = prompt ("What is the width of your room?");
 console.log(roomWidth);
 
+//finding the length of the room
+var roomLength = prompt ("What is the length of your room?");
+console.log(roomLength);
+
