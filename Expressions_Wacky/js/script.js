@@ -9,4 +9,11 @@ var roomWidth = prompt("What is the width of your room?");
 console.log=(roomWidth);
 document.write=(roomWidth);
 
+//prompting user to input room length
+var roomLength = prompt("What is the length of your room?");
+console.log(roomLength);
+document.write(roomLength);
+
+
+
 
