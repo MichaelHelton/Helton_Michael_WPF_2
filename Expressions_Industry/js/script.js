@@ -13,3 +13,5 @@ console.log(pPerInch);
 //answering how many rows and dots there are per pixel
 answer = dPerInch / pPerInch + " Pixels = Rows and Dots per pixel";
 
+//Alert the customer
+alert(dPerInch/pperinch + " Pixels = Rows and Dots per pixel");
