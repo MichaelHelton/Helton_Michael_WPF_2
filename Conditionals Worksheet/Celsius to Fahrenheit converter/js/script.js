@@ -14,3 +14,7 @@ console.log(answer);
 //prompt user for Fahrenheit temperature to convert
 var F = prompt ("What temperature would you like to convert to Celsius?");
 answer = ((F - 32) * 5/9 + " Degrees Celsuis");
+
+//alerting the user with the answer
+alert(F + " Degrees Fahrenheit is" + answer + " Degrees Celsius");
+console.log(answer);
