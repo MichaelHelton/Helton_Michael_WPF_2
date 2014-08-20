@@ -10,3 +10,7 @@ answer = (C * 9 / 5 + 32 + " Degrees Fahrenheit");
 //alerting the user with the answer
 alert(C + " Degrees Celsius is" + answer + " Degrees Fahrenheit");
 console.log(answer);
+
+//prompt user for Fahrenheit temperature to convert
+var F = prompt ("What temperature would you like to convert to Celsius?");
+answer = ((F - 32) * 5/9 + " Degrees Celsuis");
