@@ -15,3 +15,4 @@ if (age <= 54){
 }
 
 //prompting for movie time
+var movieTime = prompt("What time does the movie start?");
