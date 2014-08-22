@@ -7,6 +7,8 @@
 var age = prompt ("What is your age?");
 
 //if statement
-if (age >= 54){
+if (age <= 54){
 //else if
+}else if (age >=55){
+//2nd else if
 }
