@@ -25,4 +25,8 @@ if (grade >= 100){
 }else if (grade >=60){
     //writing to console
     console.log(grade + "%" + " You have earned an D in this class!");
+//else if grade is this
+}else if (grade >=0){
+    //writing to console
+    console.log(grade + "%" + " You have failed this class and will have to retake in the future!");
 }
