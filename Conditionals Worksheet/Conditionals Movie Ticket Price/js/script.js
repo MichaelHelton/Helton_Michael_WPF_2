@@ -23,4 +23,7 @@ if(movieTime <=5){
 }if (age >=55){
     //writing to the console
     console.log("That will be $7.00. Thank you and enjoy the movie!");
+}else if (movieTime >=6){
+    //writing to the console
+    console.log("That will be $12.00. Thank you and enjoy the movie!");
 }
