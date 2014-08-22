@@ -20,4 +20,7 @@ var movieTime = prompt("What time does the movie start?");
 if(movieTime <=5){
     //writing to the console
     console.log("That will be $7.00. Thank you and enjoy the movie!");
+}if (age >=55){
+    //writing to the console
+    console.log("That will be $7.00. Thank you and enjoy the movie!");
 }
