@@ -16,3 +16,8 @@ if (age <= 54){
 
 //prompting for movie time
 var movieTime = prompt("What time does the movie start?");
+//if statement
+if(movieTime <=5){
+    //writing to the console
+    console.log("That will be $7.00. Thank you and enjoy the movie!");
+}
