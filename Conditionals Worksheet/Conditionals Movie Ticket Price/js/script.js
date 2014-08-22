@@ -11,4 +11,7 @@ if (age <= 54){
 //else if
 }else if (age >=55){
 //2nd else if
+}else if (age<=10){
 }
+
+//prompting for movie time
