@@ -13,5 +13,6 @@ console.log(width);
 function calcRoom(){
     //prompting user for the length of room
     var length = prompt("What is the length of your room?");
-    
+    //writing to the console
+    console.log(length);
 }
