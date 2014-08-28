@@ -7,3 +7,10 @@
 //prompting user with how many changes will be made to website
 var changes = prompt("How many changes will you have this month?");
 console.log(changes);
+
+//writing if statement
+if(changes <= 10){
+    console.log("That is included in the monthly fee.");
+}else{
+    console.log("It will be $35.00 per hour making all changes. Plus the normal monthly fee.");
+}
