@@ -14,5 +14,7 @@ var weight = prompt("How much does your animal weigh?");
 function calcStings(){
     var beeStings = 8.666666667;
     var calcStings = (weight * beeStings);
+    //writing to the console
+    console.log("It would take " + calcStings + " bee stings to kill the animal.");
     
 }
