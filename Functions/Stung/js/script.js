@@ -19,3 +19,6 @@ function calcStings(){
     //writing to the document
     document.write("It would take " + calcStings + " bee stings to kill the animal.");
 }
+
+//function to calculate the weight and stings
+calcStings(weight);
