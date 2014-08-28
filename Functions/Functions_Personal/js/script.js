@@ -31,3 +31,5 @@ var price;
 price = (sqFt > 400) ? "It will cost $3.00 per square foot to install tile in this room" : "It will cost $4.00 per square foot to install tile in this room.";
 //writing to the console
 console.log(price);
+//writing to the document
+document.write(price);
