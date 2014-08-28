@@ -19,3 +19,6 @@ if(changes <= 10){
 var calcHours = prompt("Calculate what the cost will be by entering how many hours you think it will take.");
 //totaling up what the user thinks and the amount per hour plus the normal monthly fee
 total = (calcHours * 35 + 40);
+//writing to the console
+console.log("$" + total + " for this month.");
+console.log("Thank you for your buiness!");
