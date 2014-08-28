@@ -10,3 +10,9 @@ alert("It takes 8.666666667 bee stings per pound to kill an animal.");
 //prompting user for weight of their animal
 var weight = prompt("How much does your animal weigh?");
 
+//writing the function to calculate weight of animal and stings
+function calcStings(){
+    var beeStings = 8.666666667;
+    var calcStings = (weight * beeStings);
+    
+}
