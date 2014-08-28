@@ -21,4 +21,4 @@ var calcHours = prompt("Calculate what the cost will be by entering how many hou
 total = (calcHours * 35 + 40);
 //writing to the console
 console.log("$" + total + " for this month.");
-console.log("Thank you for your buiness!");
+console.log("Thank you for your business!");
