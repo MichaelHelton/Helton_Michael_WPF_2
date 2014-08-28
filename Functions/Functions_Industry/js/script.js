@@ -14,3 +14,6 @@ if(changes <= 10){
 }else{
     console.log("It will be $35.00 per hour making all changes. Plus the normal monthly fee.");
 }
+
+//calculating the hours
+var calcHours = prompt("Calculate what the cost will be by entering how many hours you think it will take.");
