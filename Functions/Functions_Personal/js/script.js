@@ -26,3 +26,6 @@ calcRoom(width);
 //prompting for square footage user has
 var sqFt = prompt("How many square feet do you have?");
 var price;
+
+//letting the user see how much it will cost per square foot for tile to be installed
+price = (sqFt > 400) ? "It will cost $3.00 per square foot to install tile in this room" : "It will cost $4.00 per square foot to install tile in this room.";
