@@ -16,5 +16,6 @@ function calcStings(){
     var calcStings = (weight * beeStings);
     //writing to the console
     console.log("It would take " + calcStings + " bee stings to kill the animal.");
-    
+    //writing to the document
+    document.write("It would take " + calcStings + " bee stings to kill the animal.");
 }
