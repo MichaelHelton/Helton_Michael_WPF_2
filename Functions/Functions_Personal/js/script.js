@@ -19,3 +19,6 @@ function calcRoom(){
     var calcRoom = (width * length);
     console.log("You have " + calcRoom + " square feet in this room.");
 }
+
+//running function
+calcRoom(width);
