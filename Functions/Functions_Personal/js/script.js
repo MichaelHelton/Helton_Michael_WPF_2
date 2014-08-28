@@ -22,3 +22,7 @@ function calcRoom(){
 
 //running function
 calcRoom(width);
+
+//prompting for square footage user has
+var sqFt = prompt("How many square feet do you have?");
+var price;
