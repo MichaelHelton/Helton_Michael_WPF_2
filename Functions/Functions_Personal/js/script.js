@@ -15,4 +15,7 @@ function calcRoom(){
     var length = prompt("What is the length of your room?");
     //writing to the console
     console.log(length);
+    //calculating room size
+    var calcRoom = (width * length);
+    console.log("You have " + calcRoom + " square feet in this room.");
 }
